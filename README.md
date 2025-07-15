@@ -26,3 +26,5 @@ Step 6: Make Predictions and Evaluate
  Predict on the test set and measure how accurate the model is.
 Step 7: Visualize the Results
 Plot a confusion matrix which showing the number of correct vs incorrect predictions.
+#OUTPUT :
+
